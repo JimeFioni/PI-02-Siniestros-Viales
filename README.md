@@ -7,7 +7,7 @@
 ![Static Badge](https://img.shields.io/badge/-Jupyter_Notebook-gray?style=flat&logo=jupyter)
 ![Static Badge](https://img.shields.io/badge/Visual_Studio_Code-gray?style=flat&logo=visual%20studio%20code&logoColor=white)
 
-##⚠️ 🚧 **Proyecto Individual** - 02-Siniestros Viales en CABA con víctimas fatales -(2016-2021) ⚠️ 🚧
+## **Proyecto Individual** - 02-Siniestros Viales en CABA con víctimas fatales -(2016-2021) 
 
 ## **Introducción**⚠️ 🚧
 
