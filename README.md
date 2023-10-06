@@ -96,13 +96,21 @@ Se define la tasa de homicidios en siniestros viales como el número de víctima
 Número de Homicidios de Siniestros = Tomando la variable `Num víctimas` del dataset
 Población Total = Tomada del Censo 2022. (Fuente:INDEC)
 
+
+
  - **Reducir en un 7% la cantidad de accidentes mortales de motociclistas en el último año, en CABA, respecto al año anterior**
 
 Se define la cantidad de accidentes mortales de motociclistas en siniestros viales como el número absoluto de accidentes fatales en los que estuvieron involucradas víctimas que viajaban en moto en un determinado periodo temporal. Su fórmula para medir la evolución de los accidentes mortales con víctimas en moto es: (Número de accidentes mortales con víctimas en moto en el año anterior - Número de accidentes mortales con víctimas en moto en el año actual) / (Número de accidentes mortales con víctimas en moto en el año anterior) * 100
 
- - **Reducir en un 15% la cantidad de accidentes con víctimas fatales de peatones en el último año, en CABA, respecto al año anterior.
+Cantidad de Accidentes Mortales en Moto = Tomando la variable `Victima` que se iguale a el campo [MOTO] del dataset 
+
+
+
+ - **Reducir en un 15% la cantidad de accidentes con víctimas fatales de peatones en el último año, en CABA, respecto al año anterior.**
 
 Se define la cantidad de accidentes fatales de peatones en siniestros viales como el número absoluto de accidentes fatales en los que estuvieron involucradas víctimas que circulaban a pie en un determinado periodo temporal. Su fórmula para medir la evolución de los accidentes mortales con víctimas peaton es: (Número de accidentes mortales con víctimas peaton en el año anterior - Número de accidentes mortales con víctimas peaton en el año actual) / (Número de accidentes mortales con víctimas peaton en el año anterior) * 100
+
+Cantidad de Accidentes Mortales en Moto = Tomando la variable `Victima` que se iguale a el campo [PEATON] del dataset 
 
 
 <div align="center">
