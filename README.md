@@ -112,6 +112,7 @@ Se define la cantidad de accidentes fatales de peatones en siniestros viales com
 
 Cantidad de Accidentes Mortales en Moto = Tomando la variable `Victima` que se iguale a el campo [PEATON] del dataset 
 
+## **Conclusiones**
 
 <div align="center">
   <a href='https://www.linkedin.com/in/jimena-fioni/'>
