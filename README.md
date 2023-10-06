@@ -7,9 +7,9 @@
 ![Static Badge](https://img.shields.io/badge/-Jupyter_Notebook-gray?style=flat&logo=jupyter)
 ![Static Badge](https://img.shields.io/badge/Visual_Studio_Code-gray?style=flat&logo=visual%20studio%20code&logoColor=white)
 
-## **Proyecto Individual** - 02-Siniestros Viales en CABA con víctimas fatales -(2016-2021) 
+##⚠️ 🚧 **Proyecto Individual** - 02-Siniestros Viales en CABA con víctimas fatales -(2016-2021) ⚠️ 🚧
 
-## **Introducción**
+## **Introducción**⚠️ 🚧
 
 Este proyecto se realizó simulando ser un Data Analist de una consultora; y tiene como finalidad la elaboración de un análisis de datos solicitado por el `Observatorio de Movilidad y Seguridad Vial (OMSV)`, bajo la órbita de la Secretaría de Transporte del Gobierno de la Ciudad Autónoma de Buenos Aires (CABA).
 
@@ -20,7 +20,7 @@ Las tasas de mortalidad relacionadas con siniestros viales suelen ser un indicad
 Para cumplir con ello, los datos iniciales que se utilizan son derivados de un dataset con información sobre homicidios de siniestros viales en la Ciudad de Buenos Aires, durante los años 2016-2021, que es de píblico acceso en la página oficial de CABA. 
 Podemos acceder a ellos desde [Datos oficiales](https://data.buenosaires.gob.ar/dataset/victimas-siniestros-viales)
 
-## **Contexto**
+## **Contexto**⚠️ 🚧
 
 Los siniestros viales, también conocidos como accidentes de tráfico o accidentes de tránsito, son eventos que involucran vehículos en las vías públicas y que pueden tener diversas causas, como colisiones entre automóviles, motocicletas, bicicletas o peatones, atropellos, choques con objetos fijos o caídas de vehículos. Estos incidentes pueden tener consecuencias que van desde daños materiales hasta lesiones graves o fatales para los involucrados.
 
@@ -32,7 +32,7 @@ Solo en 2022, se contabilizaron 3.828 muertes fatales en este tipo de hechos. Lo
 
  Por todo ello, el estudio del problema para la prevención y disminución de Siniestros viales es escencialmente importante para las autoridades.
 
-## **Desarrollo**
+## **Desarrollo**⚠️ 🚧
 
 ### Datos
 
@@ -113,7 +113,7 @@ Se define la cantidad de accidentes fatales de peatones en siniestros viales com
 
 Cantidad de Accidentes Mortales en Moto = Tomando la variable `Victima` que se iguale a el campo [PEATON] del dataset 
 
-## **Conclusiones**
+## **Conclusiones**⚠️ 🚧
 
 <div align="center">
   <a href='https://www.linkedin.com/in/jimena-fioni/'>
