@@ -68,6 +68,10 @@ Edad de las víctimas : La distribución del rango etario de víctimas, resulta 
 
 ![Rango etario](/images/edad.png)
 
+El patrón de correlación Edad y Hora de las variables númericas se analiza agregando la variable Sexo, de lo que resulta la conclusión que los horarios en que los accidentes son protagonizados por Masculinos es al horario de ingreso y egreso laboral, mientras que para los Femeninos es en el horario cercano al almuerzo.
+
+
+
 
 
 ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
