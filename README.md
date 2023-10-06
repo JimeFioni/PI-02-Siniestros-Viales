@@ -90,7 +90,7 @@ Se utliza la herramienta NovyPro para mostrar el `dashboard`resultante de manera
 
 KPI Propuestos
 
-[KPI](/images/KPI.PNG)
+![KPI](/images/kpis.PNG)
 
  - **Reducir en un 10% la tasa de homicidios en siniestros viales de los últimos seis meses, en CABA, en comparación con la tasa de homicidios en siniestros viales del semestre anterior**
 
