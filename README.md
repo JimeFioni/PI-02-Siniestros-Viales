@@ -89,6 +89,19 @@ Se utliza la herramienta NovyPro para mostrar el `dashboard`resultante de manera
 
 KPI Propuestos
 
+-**Reducir en un 10% la tasa de homicidios en siniestros viales de los últimos seis meses, en CABA, en comparación con la tasa de homicidios en siniestros viales del semestre anterior**
+
+Se define la tasa de homicidios en siniestros viales como el número de víctimas fatales en accidentes de tránsito por cada 100,000 habitantes en un área geográfica durante un período de tiempo específico. Su fórmula es: (Número de homicidios en siniestros viales / Población total) * 100,000
+
+Número de Homicidios de Siniestros = Tomando la variable `Num víctimas` del dataset
+Población Total = Tomada del Censo 2022. (Fuente:INDEC)
+
+-**Reducir en un 7% la cantidad de accidentes mortales de motociclistas en el último año, en CABA, respecto al año anterior**
+
+Se define la cantidad de accidentes mortales de motociclistas en siniestros viales como el número absoluto de accidentes fatales en los que estuvieron involucradas víctimas que viajaban en moto en un determinado periodo temporal. Su fórmula para medir la evolución de los accidentes mortales con víctimas en moto es: (Número de accidentes mortales con víctimas en moto en el año anterior - Número de accidentes mortales con víctimas en moto en el año actual) / (Número de accidentes mortales con víctimas en moto en el año anterior) * 100
+
+
+
 
 <div align="center">
   <a href='https://www.linkedin.com/in/jimena-fioni/'>
