@@ -115,6 +115,10 @@ Se define la cantidad de accidentes fatales de peatones en siniestros viales com
 
 Cantidad de Accidentes Mortales en Moto = Tomando la variable `Victima` que se iguale a el campo [PEATON] del dataset 
 
+
+![Indicadores](/images/indicadores.PNG)
+
+
 ## **Conclusiones**⚠️ 🚧
 
 A partir del análisis exahustivo de los datos y su posterior visualización a través del dashboard en PowerBi; se concluye que las víctimas fatales por siniestros de tránsito entre los años 2016 a 2021 fueron 717 personas.
